@@ -1,0 +1,50 @@
+_repo: Elizabeth-and-Her-German-Garden_1327
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Von Arnim, Elizabeth
+    aliases:
+    - Arnim-Schlagenthin, Countess Elizabeth von
+    - Russell, Mary Annette Beauchamp Russell, Countess
+    - Beauchamp, Mary Annette
+    - Cholmondeley, Alice
+    - Arnim, Elizabeth von
+    birthdate: 1866
+    deathdate: 1941
+    gutenberg_agent_id: '603'
+    url: http://www.gutenberg.org/2009/agents/603
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_von_Arnim
+description: "Elizabeth and Her German Garden is a novel by Elizabeth von Arnim, first\
+  \ published in 1898; it was very popular and frequently reprinted during the early\
+  \ years of the 20th century.\nThe story is a year's diary written by the protagonist\
+  \ Elizabeth about her experiences learning gardening and interacting with her friends.\
+  \ It includes commentary on the beauty of nature and on society, but is primarily\
+  \ humorous due to Elizabeth's frequent mistakes and her idiosyncratic outlook on\
+  \ life.\nShe looked down upon the frivolous fashions of her time writing “I believe\
+  \ all needlework and dressmaking is of the devil, designed to keep women from study.”\n\
+  The book is the first in a series about the same character. It is noteworthy for\
+  \ being published without a named author.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Horticulture
+gutenberg_issued: '1998-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1327'
+  wikidata: Q5363788
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British -- Germany -- Fiction'
+- !lcsh 'Autobiographical fiction'
+- !lcc 'PR'
+- !lcsh 'Women gardeners -- Fiction'
+- !lcsh 'Gardens -- Fiction'
+- !lcsh 'Germany -- Fiction'
+- !lcsh 'Gardening -- Fiction'
+- GITenberg
+title: Elizabeth and Her German Garden
+url: http://www.gutenberg.org/ebooks/1327
+wikipedia:
+- https://en.wikipedia.org/wiki/Elizabeth_and_Her_German_Garden
+- https://it.wikipedia.org/wiki/Il_giardino_di_Elizabeth
