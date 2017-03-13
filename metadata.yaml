@@ -1,5 +1,8 @@
 _repo: Elizabeth-and-Her-German-Garden_1327
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Von Arnim, Elizabeth
@@ -24,6 +27,8 @@ description: "Elizabeth and Her German Garden is a novel by Elizabeth von Arnim,
   \ all needlework and dressmaking is of the devil, designed to keep women from study.”\n\
   The book is the first in a series about the same character. It is noteworthy for\
   \ being published without a named author.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1327#Elizabeth-and-Her-German-Garden
 gutenberg_bookshelf: Horticulture
 gutenberg_issued: '1998-05-01'
 gutenberg_type: Text
